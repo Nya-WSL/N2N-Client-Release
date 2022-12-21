@@ -1,5 +1,5 @@
 # N2N-Client-Release
-N2N-Client-py Releases库
+[N2N-Client-py](https://github.com/Nya-WSL/N2N-Client-py) Releases库
 
 ### latest
 
@@ -9,6 +9,6 @@ N2N-Client-py Releases库
 
 ### version
 
-`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release@version/win/latest/n2n-client-win-latest.zip`
+`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release/win/version/n2n-client-win-latest.zip`
 
-`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release@version/linux/latest/n2n-client-linux-latest.zip`
+`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release/linux/version/n2n-client-linux-latest.zip`
