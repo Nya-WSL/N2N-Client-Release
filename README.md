@@ -9,6 +9,6 @@
 
 ### version
 
-`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release/win/version/n2n-client-win-latest.zip`
+`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release/win/version/n2n-client-win-version.zip`
 
-`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release/linux/version/n2n-client-linux-latest.zip`
+`https://cdn.jsdelivr.net/gh/Nya-WSL/N2N-Client-Release/linux/version/n2n-client-linux-version.zip`
